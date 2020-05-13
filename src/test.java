@@ -18,5 +18,6 @@ public class test {
 
         System.out.println("nb tc1");
         System.out.println("nb tc2");
+        System.out.println("nb tc3");
     }
 }
